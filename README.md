@@ -1,2 +1,1 @@
-Responsive Web Design Certification
-Thiago Lima | Portfolio Project
+FreeCodeCamp | Responsive Web Design Certification - Portfolio Project
